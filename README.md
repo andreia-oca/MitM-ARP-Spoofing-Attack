@@ -18,8 +18,8 @@ TODO
 TODO
 
 ## Useful Links
-[Overleaf report]()
-[Presentation]()
+[Overleaf report](https://www.overleaf.com/project/600089e357cc67a96242f3a2)
+[Presentation](https://ctipub-my.sharepoint.com/personal/andreia_ocanoaia_stud_acs_upb_ro/_layouts/15/doc.aspx?sourcedoc={4c68ae09-6dba-4b29-8e21-82b769040c31}&action=edit)
 
 ## References
 Article: [Man In The Middle Attack (MITM) Part 1 — ARP Spoofing](https://levelup.gitconnected.com/man-in-the-middle-attack-part-1-arp-spoofing-6f5b174dec59)
