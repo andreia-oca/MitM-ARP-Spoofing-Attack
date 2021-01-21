@@ -31,4 +31,6 @@ attacker -- switch -- victim
 
 
 ## References
-Article: [Man In The Middle Attack (MITM) Part 1 — ARP Spoofing](https://levelup.gitconnected.com/man-in-the-middle-attack-part-1-arp-spoofing-6f5b174dec59)
+- [Man In The Middle Attack (MITM) Part 1 — ARP Spoofing](https://levelup.gitconnected.com/man-in-the-middle-attack-part-1-arp-spoofing-6f5b174dec59)
+- [ARP Cache Poisoning Tutorial](https://linuxhint.com/arp_spoofing_using_man_in_the_middle_attack/)
+- [Arpspoof Tutorial](https://tutorialedge.net/security/arp-spoofing-for-mitm-attack-tutorial/)
